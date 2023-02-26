@@ -1,6 +1,5 @@
 # Image in Docker
 
-# Docker images
 
 ## Define
 
